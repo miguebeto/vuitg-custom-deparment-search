@@ -1,0 +1,6 @@
+{
+    "deparment-search": {
+        "component": "DeparmentSearch",
+        "composition": "children"
+    }
+}
